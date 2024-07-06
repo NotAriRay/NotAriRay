@@ -1,6 +1,6 @@
 # Hi 👋
 
-- <h4>I'm Ari, a 15yr high school student from Kosovo 🇽🇰 . I like coding 🧑🏻‍💻 ,gaming 🎮 , jammin to music 🎧 , and mountain biking 🚵 !</h4>
+- <h2>I'm Ari, a 15yr high school student from Kosovo 🇽🇰 . I like coding 🧑🏻‍💻 ,gaming 🎮 , jammin to music 🎧 , and mountain biking 🚵 !</h2>
  # Languages 🖥️
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
