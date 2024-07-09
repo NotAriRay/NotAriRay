@@ -1,6 +1,12 @@
 # Hi 👋
 
 - <h2>I'm Ari, a 15yr high school student from Kosovo 🇽🇰 . I like coding 🧑🏻‍💻 ,gaming 🎮 , jammin to music 🎧 , and mountain biking 🚵 !</h2>
+
+# Stats 📊
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAriRay&show_icons=true&theme=github_dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAriRay&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
  # Languages 🖥️
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
