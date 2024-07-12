@@ -1,13 +1,14 @@
-# Hi 👋
+<h1 align="center">Hi 👋</h1>
 
 - <h2>I'm Ari, a 15yr high school student from Kosovo 🇽🇰 . I like coding 🧑🏻‍💻 ,gaming 🎮 , jammin to music 🎧 , and mountain biking 🚵 !</h2>
 
-# Stats 📊
+<h1 align="center">Stats 📊</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAriRay&show_icons=true&theme=github_dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAriRay&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
- # Languages 🖥️
+ <h1 align="center">Languages 🖥️</h1>
+ 
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
    
@@ -17,7 +18,8 @@
    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
    ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-  # Tools 🛠️
+  <h1 align="center">Tools 🛠️</h1>
+  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -46,5 +48,6 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-  # Get in touch with me 📞
+  <h1 align="center">Get in touch with me 📞</h1>
+  
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/602127622528303114)
