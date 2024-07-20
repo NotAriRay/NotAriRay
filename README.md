@@ -4,8 +4,8 @@
 
 <h1 align="center">Stats 📊</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAriRay&show_icons=true&theme=github_dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAriRay&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAriRay&show_icons=true&theme=transparent&hide_border=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAriRay&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
  <h1 align="center">Languages 🖥️</h1>
  
