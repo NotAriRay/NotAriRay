@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-- <h2>I'm Ari, a 15yr high school student from Kosovo 🇽🇰 . I like coding 🧑🏻‍💻 ,gaming 🎮 , jammin to music 🎧 , and mountain biking 🚵 !</h2>
+- <h3>I'm Ari, a 15yr high school student from Kosovo 🇽🇰 . I like coding 🧑🏻‍💻 ,gaming 🎮 , jammin to music 🎧 , and mountain biking 🚵 !</h3>
 
 <h1 align="center">Stats 📊</h1>
 
