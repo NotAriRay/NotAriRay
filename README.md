@@ -1,6 +1,6 @@
   <h1 align="center">About me</h1>
 
-  ```lua
+  ```swift
   func AriRay() {
     age = 15
     status = "High School Student"
