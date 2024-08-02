@@ -4,8 +4,8 @@
   func AriRay() {
     age = 15
     status = "High School Student"
-    languages = {swift, python, lua, c++, html, css, astro, javascript}
-    games = {PVZ, Minecraft, Hollow Knight, Subnautica, No Man's Sky, Metro series}
+    languages = {"swift", "python", "lua", "c++", "html", "css", "astro", "javascript"}
+    games = {"PVZ", "Minecraft", "Hollow Knight", "Subnautica", "No Man's Sky", "Metro" series}
     timezone = "GMT+2"
     pronouns ="he/him"
 }
