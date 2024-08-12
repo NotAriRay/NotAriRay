@@ -1,3 +1,9 @@
+  <div align="center">
+
+<img src="/assets/dark_banner.png">
+
+</div>
+
   <h1 align="center">About me</h1>
 
   ```swift
