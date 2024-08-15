@@ -4,7 +4,7 @@
 
 </div>
 
-  <h1 align="center">About me</h1>
+  <h1 align="center">| About me</h1>
 
   ```swift
   func AriRay() {
@@ -17,7 +17,7 @@
 }
   ```
 
-  <h1 align="center">Buy me a coffee ☕️</h1>
+  <h1 align="center">| Support me</h1>
 
   [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/notariray)
 
