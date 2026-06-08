@@ -7,7 +7,7 @@ Pronouns -> `He/Him`
 
 Location -> `Kosovo`
 
-Website -> `https://grapefizz.dev`
+Website -> `https://grapefizz.pages.dev`
 
 Time Zone -> `GMT+1`
 
